@@ -1,4 +1,6 @@
-# <div style="padding-bottom: 15px"><img src="./src/logo.svg" style="height: 50px;margin-bottom: -15px"/> Basic React App <img src="./src/logo.svg" style="height: 50px;margin-bottom: -15px"/></div>
+<img src="./src/logo.svg" width="150"/>
+
+# Basic React App
 
 ## Available Scripts
 
