@@ -8,6 +8,10 @@
     "url": "https://github.com/bluke93/base-react-app/issues",
     "email": "baroneluca93@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluke93/base-react-app.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
