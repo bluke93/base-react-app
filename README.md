@@ -1,5 +1,3 @@
-<img src="./src/logo.svg" width="150"/>
-
 # Basic React App
 Ready to use basic React App.<br>
 Basic structure with routing, layout, views and styles (scss).
