@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <div style="padding-bottom: 15px"><img src="./src/logo.svg" style="height: 50px;margin-bottom: -15px"/> Basic React App <img src="./src/logo.svg" style="height: 50px;margin-bottom: -15px"/></div>
 
 ## Available Scripts
 
